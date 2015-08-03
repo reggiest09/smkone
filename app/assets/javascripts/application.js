@@ -18,3 +18,6 @@
 // = smoothscroll.js
 // = retina.min.js
 // = main.js
+// = modernizr-2.8.3-respond-1.4.2.min.js
+// = npm.js
+// = jquery-1.11.2.min.js
