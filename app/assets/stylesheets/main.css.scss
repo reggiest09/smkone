@@ -50,6 +50,7 @@ button:active{
 	background: rgba(0, 0, 0, 0.55);
 	padding-top: 70px;
 	background-image: url(asset-path('pattern.png'));
+  
 }
 @media (min-width: 991px) {
 	.lu-title{
@@ -217,11 +218,13 @@ button:active{
 	-webkit-background-size: cover;
 	background-size: cover;
 	color: #fff;
+  
 }
 .lu-overlay {
   background: rgba(0, 0, 0, 0.55);
   background-image: url(asset-path('pattern.png'));
   padding: 75px 0;
+  
 }
 
 /* Contact form */
