@@ -16,3 +16,4 @@
 //= require_tree .
 //= require jquery-1.10.2.js
 //= require bootstrap.min.js
+//= require awesome-share-buttons

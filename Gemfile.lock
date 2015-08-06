@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/evansobkowicz/awesome-share-buttons.git
+  revision: eadb9ba540732e4db156ead649dcb662f41e105a
+  specs:
+    awesome-share-buttons (1.1)
+      coffee-rails
+      sass-rails
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -57,6 +65,8 @@ GEM
       railties (~> 4.0)
     erubis (2.7.0)
     execjs (2.5.2)
+    font-awesome-rails (4.3.0.0)
+      railties (>= 3.2, < 5.0)
     gibbon (1.1.5)
       httparty
       multi_json (>= 1.9.0)
@@ -158,9 +168,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  awesome-share-buttons!
   byebug
   coffee-rails (~> 4.1.0)
   dotenv-rails (~> 2.0.2)
+  font-awesome-rails
   gibbon (~> 1.1.5)
   jbuilder (~> 2.0)
   jquery-rails
